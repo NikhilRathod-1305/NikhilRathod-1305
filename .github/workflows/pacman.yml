@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate Pacman Snake
+      - name: Generate Pacman Style Graph
         uses: Platane/snk@v3
         with:
           github_user_name: NikhilRathod-1305
