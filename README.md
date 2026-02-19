@@ -27,45 +27,44 @@
 <a href="https://portfolio-nikhil-rathod.vercel.app/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Portfolio" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Tech Stack ⚡</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react" height="40" />
+
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40">](https://reactjs.org/)
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40">](https://angular.io)
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=express" height="40" />
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40">](https://nodejs.org)
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=angular" height="40" />
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40">](https://expressjs.com)
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nextjs" height="40" />
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40">](https://www.mongodb.com/)
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=flutter" height="40" />
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40">](https://www.typescriptlang.org/)
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=ts" height="40" />
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" height="40" />
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">](https://www.python.org)
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" height="40" />
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40">](https://flutter.dev)
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" height="40" />
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40">](https://www.mysql.com/)
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" height="40" />
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40">](https://www.postgresql.org)
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postgres" height="40" />
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40">](https://aws.amazon.com/)
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=aws" height="40" />
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40">](https://www.docker.com/)
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=docker" height="40" />
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40">](https://git-scm.com/)
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git" height="40" />
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40">](https://redux.js.org)
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=redux" height="40" />
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind" height="40" />
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nestjs" height="40" />
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40">](https://tailwindcss.com/)
 </p>
+
+
 
 <h3 align="center">GitHub Stats 📊</h3>
 
