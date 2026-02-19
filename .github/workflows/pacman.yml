@@ -1,27 +1,28 @@
-name: Generate Pacman Contribution Graph
+name: Generate Contribution Snake
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Generate Pacman Contribution Graph
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: NikhilRathod-1305
           outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Pacman Graph to output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
