@@ -15,12 +15,15 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate Pacman Graph
-        uses: maurodesouza/pacman-contribution-graph@main
+      - name: Generate Pacman Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: NikhilRathod-1305
+          outputs: |
+            dist/pacman-contribution-graph.svg?palette=github
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
-      - name: Push Pacman to output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
