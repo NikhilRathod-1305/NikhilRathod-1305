@@ -37,16 +37,10 @@
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="30" width="30" />
 </a>
 </p>
-
 ---
-
-<h1 align="center">Hey 👋 What's Up?</h1>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,angular,nextjs,flutter,ts,js,python,mongodb,mysql,postgres,aws,docker,git,redux,tailwind,nestjs" height="60" />
 </div>
-
----
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nikhilrathod1305/">
