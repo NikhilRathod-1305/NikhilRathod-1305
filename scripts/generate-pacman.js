@@ -100,19 +100,45 @@ function generateSVG(weeks) {
     });
   });
 
-  const pacmanY = cell * 3 + cell / 2;
+const pacmanY = cell * 3 + cell / 2;
 
-  svg += `
-<g class="pacman">
-  <circle cx="10" cy="${pacmanY}" r="8"/>
-  <polygon class="mouth"
-           points="10,${pacmanY}
-                   20,${pacmanY - 6}
-                   20,${pacmanY + 6}"/>
+svg += `
+<g>
+  <g>
+    <path fill="yellow">
+      <animate attributeName="d"
+        dur="0.4s"
+        repeatCount="indefinite"
+        values="
+          M 10 ${pacmanY}
+          m -8 0
+          a 8 8 0 1 0 16 0
+          a 8 8 0 1 0 -16 0;
+
+          M 10 ${pacmanY}
+          m -8 0
+          a 8 8 0 1 1 16 -6
+          a 8 8 0 1 1 -16 6;
+
+          M 10 ${pacmanY}
+          m -8 0
+          a 8 8 0 1 0 16 0
+          a 8 8 0 1 0 -16 0
+        "
+      />
+    </path>
+  </g>
+
+  <animateTransform
+    attributeName="transform"
+    type="translate"
+    from="0 ${cell * 3}"
+    to="${width * cell} ${cell * 3}"
+    dur="${width * 0.3}s"
+    repeatCount="indefinite" />
 </g>
 `;
 
-  svg += "</svg>";
   return svg;
 }
 
