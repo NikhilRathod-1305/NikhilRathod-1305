@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Rathod</h1>
 <h3 align="center">A Full Stack Developer 🚀</h3>
 
-<img align="right" width="340" height="380" alt="about" src="assets/banner-9.png">
+<img align="right" width="360" height="340px" alt="about" src="assets/web-banner.png">
 
 - 🔭 I'm currently working on **Scalable MERN/MEAN Stack Applications**
 - 🌱 I'm currently learning **AI & Advanced Backend Architecture**
