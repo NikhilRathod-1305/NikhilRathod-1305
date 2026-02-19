@@ -1,36 +1,83 @@
 const fs = require("fs");
+const fetch = require("node-fetch");
 
-const width = 52;
-const height = 7;
-const cellSize = 16;
+const username = "NikhilRathod-1305";
+const token = process.env.GH_TOKEN;
 
-let svg = `
-<svg width="${width * cellSize}" height="${height * cellSize}" 
-xmlns="http://www.w3.org/2000/svg" style="background:#0d1117">
-<style>
-  .dot { fill:#2ea043; }
-  .wall { fill:#30363d; }
-  .pacman {
-    fill:yellow;
-    animation: chomp 0.6s infinite;
-  }
-  @keyframes chomp {
-    0% { transform: rotate(0deg); }
-    50% { transform: rotate(20deg); }
-    100% { transform: rotate(0deg); }
-  }
-</style>
-`;
+async function getContributions() {
+  const query = `
+    query {
+      user(login: "${username}") {
+        contributionsCollection {
+          contributionCalendar {
+            weeks {
+              contributionDays {
+                contributionCount
+              }
+            }
+          }
+        }
+      }
+    }
+  `;
 
-for (let y = 0; y < height; y++) {
-  for (let x = 0; x < width; x++) {
-    svg += `<rect class="wall" x="${x * cellSize}" y="${y * cellSize}" width="${cellSize-2}" height="${cellSize-2}" rx="3"/>`;
-  }
+  const response = await fetch("https://api.github.com/graphql", {
+    method: "POST",
+    headers: {
+      Authorization: `Bearer ${token}`,
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify({ query })
+  });
+
+  const json = await response.json();
+  return json.data.user.contributionsCollection.contributionCalendar.weeks;
 }
 
-// Pacman
-svg += `<circle class="pacman" cx="40" cy="40" r="10"/>`;
+function generateSVG(weeks) {
+  const cellSize = 14;
+  const width = weeks.length;
+  const height = 7;
 
-svg += "</svg>";
+  let svg = `
+  <svg xmlns="http://www.w3.org/2000/svg"
+       width="${width * cellSize}"
+       height="${height * cellSize}"
+       style="background:#0d1117">
+  <style>
+    .dot { fill:#2ea043; }
+    .empty { fill:#161b22; }
+    .pacman {
+      fill:yellow;
+      animation: move 15s linear infinite;
+    }
+    @keyframes move {
+      from { transform: translate(0px,0px); }
+      to { transform: translate(${width * cellSize}px,0px); }
+    }
+  </style>
+  `;
 
-fs.writeFileSync("pacman-contribution-graph.svg", svg);
+  weeks.forEach((week, x) => {
+    week.contributionDays.forEach((day, y) => {
+      const color = day.contributionCount > 0 ? "dot" : "empty";
+      svg += `<rect class="${color}"
+              x="${x * cellSize}"
+              y="${y * cellSize}"
+              width="${cellSize - 2}"
+              height="${cellSize - 2}"
+              rx="3"/>`;
+    });
+  });
+
+  svg += `<circle class="pacman" cx="10" cy="50" r="8"/>`;
+  svg += "</svg>";
+
+  return svg;
+}
+
+(async () => {
+  const weeks = await getContributions();
+  const svg = generateSVG(weeks);
+  fs.writeFileSync("pacman-contribution-graph.svg", svg);
+})();
