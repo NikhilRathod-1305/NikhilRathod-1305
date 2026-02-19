@@ -4,10 +4,10 @@
 <img align="right" width="320" alt="about" src="assets/banner-4.png">
 
 - 🔭 I'm currently working on **Scalable MERN/MEAN Stack Applications**
-- 🌱 I'm currently learning **AI/LLM Integrations & Advanced Backend Architecture**
+- 🌱 I'm currently learning **AI & Advanced Backend Architecture**
 - 👨‍💻 All of my projects are available at  
   👉 **https://github.com/NikhilRathod-1305**
-- 💬 Ask me about **React.js, Angular, Node.js, Express.js, MongoDB, Flutter, AWS**
+- 💬 Ask me about **React.js, Angular, Node.js, Flutter, AWS**
 - 📫 Reach me at **nikhilrathod1305@gmail.com**
 - ⚡ Fun fact: *Somewhere right now, a pigeon is probably judging you.*
 
