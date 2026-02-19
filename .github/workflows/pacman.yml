@@ -1,4 +1,4 @@
-name: Generate Real Pacman Heatmap
+name: Generate Pacman Heatmap
 
 on:
   schedule:
@@ -15,13 +15,11 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Setup Node
-        uses: actions/setup-node@v3
+      - uses: actions/setup-node@v3
         with:
           node-version: 18
 
-      - name: Install deps
-        run: npm install
+      - run: npm install
 
       - name: Generate SVG
         run: node scripts/generate-pacman.js
