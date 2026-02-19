@@ -9,7 +9,7 @@
   👉 **https://github.com/NikhilRathod-1305**
 - 💬 Ask me about **React.js, Angular, Node.js, Express.js, MongoDB, Flutter, AWS**
 - 📫 Reach me at **nikhilrathod1305@gmail.com**
-- ⚡ Fun fact: *I enjoy building systems that solve real-world business problems at scale.*
+- ⚡ Fun fact: *Somewhere right now, a pigeon is probably judging you.*
 
 <h3 align="left">Connect with me 🤝</h3>
 
