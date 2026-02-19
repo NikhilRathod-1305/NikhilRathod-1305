@@ -22,8 +22,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/profile/nikhilrathod1305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://portfolio-nikhil-rathod.vercel.app/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Portfolio" height="30" width="40" /></a>
 <a href="https://discord.gg/#4647" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SONICK1305#7403" height="30" width="40" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://portfolio-nikhil-rathod.vercel.app/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Portfolio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Tech Stack ⚡</h3>
