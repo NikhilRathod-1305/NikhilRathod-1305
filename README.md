@@ -30,41 +30,41 @@
 <h3 align="left">Tech Stack ⚡</h3>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react" alt="React" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=react" height="40" />
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="40" />
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=express" alt="Express" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=express" height="40" />
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=angular" alt="Angular" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=angular" height="40" />
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="40" />
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=flutter" height="40" />
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=ts" height="40" />
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=js" height="40" />
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=python" height="40" />
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="40" />
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=mysql" height="40" />
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=postgres" height="40" />
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=aws" height="40" />
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=docker" height="40" />
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=git" height="40" />
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=redux" alt="Redux" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=redux" height="40" />
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="40" />
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=nestjs" height="40" />
 </p>
 
 <h3 align="center">GitHub Stats 📊</h3>
