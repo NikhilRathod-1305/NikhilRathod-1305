@@ -16,24 +16,24 @@
 <h3 align="center">Connect with me 🤝</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nikhilrathod1305/" target="_blank" style="margin: 0 12px; text-decoration: none;">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="60" />
+<a href="https://www.linkedin.com/in/nikhilrathod1305/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="70" />
 </a>
-
-<a href="https://x.com/nikhilrathod77" target="_blank" style="margin: 0 12px; text-decoration: none;">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="60" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/nikhilrathod77" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="70" />
 </a>
-
-<a href="https://stackoverflow.com/users/32386660/nikhil-rathod" target="_blank" style="margin: 0 12px; text-decoration: none;">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="60" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/32386660/nikhil-rathod" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="70" />
 </a>
-
-<a href="https://www.hackerrank.com/profile/nikhilrathod1305" target="_blank" style="margin: 0 12px; text-decoration: none;">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="60" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/nikhilrathod1305" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="70" />
 </a>
-
-<a href="https://portfolio-nikhil-rathod.vercel.app/" target="_blank" style="margin: 0 12px; text-decoration: none;">
-<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="60" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://portfolio-nikhil-rathod.vercel.app/" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="70" />
 </a>
 </p>
 
@@ -41,26 +41,10 @@
 
 <h3 align="center">Tech Stack ⚡</h3>
 
-<div align="center" style="line-height: 2;">
-  <img src="https://skillicons.dev/icons?i=react" height="60" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=angular" height="60" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="60" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=redux" height="60" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" style="margin:10px;" />
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,angular,nextjs,flutter,ts,js,python,mongodb,mysql,postgres,aws,docker,git,redux,tailwind,nestjs" height="70" />
+</p>
+
 
 ---
 
