@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Rathod</h1>
 <h3 align="center">A Full Stack Developer 🚀</h3>
 
-<img align="right" width="600" alt="about" src="https://github.com/SHREYK213/SHREYK213/assets/98221778/f5883ff2-abc6-4e3c-9a7a-924c43ac16a7">
+<img align="right" width="500" alt="about" src="https://github.com/SHREYK213/SHREYK213/assets/98221778/f5883ff2-abc6-4e3c-9a7a-924c43ac16a7">
 
 - 🔭 I’m currently working on **Scalable MERN/MEAN Stack Applications**
 
@@ -22,19 +22,19 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/nikhilrathod1305/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="60" width="60" />
 </a>
 <a href="https://x.com/nikhilrathod77" target="blank">
-<img src="https://skillicons.dev/icons?i=twitter" height="45" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="60" width="60" />
 </a>
 <a href="https://stackoverflow.com/users/32386660/nikhil-rathod" target="blank">
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" height="45" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="60" width="60" />
 </a>
 <a href="https://www.hackerrank.com/profile/nikhilrathod1305" target="blank">
-<img src="https://cdn-icons-png.flaticon.com/512/2620/2620993.png" height="45" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="60" width="60" />
 </a>
 <a href="https://portfolio-nikhil-rathod.vercel.app/" target="blank">
-<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="45" />
+<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="60" width="60" />
 </a>
 </p>
 
@@ -43,7 +43,7 @@
 <h3 align="center">Tech Stack ⚡</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,angular,nextjs,flutter,ts,js,python,mongodb,mysql,postgres,aws,docker,git,redux,tailwind,nestjs" height="80" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,angular,nextjs,flutter,ts,js,python,mongodb,mysql,postgres,aws,docker,git,redux,tailwind,nestjs" height="100" />
 </div>
 
 ---
