@@ -1,0 +1,33 @@
+name: Generate Custom Pacman
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Generate SVG
+        run: node scripts/generate-pacman.js
+
+      - name: Commit SVG
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git checkout -b output || git checkout output
+          git add pacman-contribution-graph.svg
+          git commit -m "Update pacman animation" || echo "No changes"
+          git push origin output --force
