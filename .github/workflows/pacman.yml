@@ -1,4 +1,4 @@
-name: Generate Pacman Contribution Graph
+name: Generate Pacman Maze Animation
 
 on:
   schedule:
@@ -15,13 +15,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate Pacman Style Graph
+      - name: Generate Pacman Maze
         uses: Platane/snk@v3
         with:
           github_user_name: NikhilRathod-1305
           outputs: |
-            dist/pacman-contribution-graph.svg?palette=github
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+            dist/pacman-contribution-graph.svg?animation=maze&palette=github
+            dist/pacman-contribution-graph-dark.svg?animation=maze&palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
